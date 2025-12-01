@@ -1,4 +1,4 @@
-# 🛡️ Suricata IDS Lab (My Notes)
+#  Suricata IDS Lab (My Notes)
 
 ## **1. Installing Suricata**
 
