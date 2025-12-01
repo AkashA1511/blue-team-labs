@@ -95,7 +95,7 @@ Wazuh parses these logs using its built-in ruleset.
 - Real brute-force attempts generate clear, readable alerts inside Wazuh Threat Hunting.
  
 
- ![sshone](screenshots/ssh1.jpeg)
+ ![sshone](screenshots/ssh1.jpg)
 
  ![sshtwo](screenshots/ssh2.png)
 
